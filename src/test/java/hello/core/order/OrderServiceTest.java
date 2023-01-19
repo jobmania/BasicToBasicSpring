@@ -36,4 +36,11 @@ public class OrderServiceTest {
 
     }
 
+//    @Test
+//    void fieldInjectionTest(){
+//        OrderServiceImpl orderService1 = new OrderServiceImpl();
+//        orderService1.createOrder(1L,"아",1000);
+//
+//    }
+
 }
